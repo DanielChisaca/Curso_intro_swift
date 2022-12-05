@@ -15,6 +15,7 @@
 		2ADBF59F293BD3290097CB2F /* _1_hello_worldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ADBF59E293BD3290097CB2F /* _1_hello_worldTests.swift */; };
 		2ADBF5A9293BD3290097CB2F /* _1_hello_worldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ADBF5A8293BD3290097CB2F /* _1_hello_worldUITests.swift */; };
 		2ADBF5AB293BD3290097CB2F /* _1_hello_worldUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ADBF5AA293BD3290097CB2F /* _1_hello_worldUITestsLaunchTests.swift */; };
+		2ADBF5B8293D9ECE0097CB2F /* 01_hello_world.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ADBF5B7293D9ECE0097CB2F /* 01_hello_world.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		2ADBF5A4293BD3290097CB2F /* 01_hello_worldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 01_hello_worldUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2ADBF5A8293BD3290097CB2F /* _1_hello_worldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _1_hello_worldUITests.swift; sourceTree = "<group>"; };
 		2ADBF5AA293BD3290097CB2F /* _1_hello_worldUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _1_hello_worldUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2ADBF5B7293D9ECE0097CB2F /* 01_hello_world.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 01_hello_world.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		2ADBF589293BD3260097CB2F /* 01_hello_world */ = {
 			isa = PBXGroup;
 			children = (
+				2ADBF5B7293D9ECE0097CB2F /* 01_hello_world.swift */,
 				2ADBF58A293BD3260097CB2F /* _1_hello_worldApp.swift */,
 				2ADBF58C293BD3260097CB2F /* _1_hello_worldDocument.swift */,
 				2ADBF58E293BD3260097CB2F /* ContentView.swift */,
@@ -264,6 +267,7 @@
 			files = (
 				2ADBF58D293BD3260097CB2F /* _1_hello_worldDocument.swift in Sources */,
 				2ADBF58B293BD3260097CB2F /* _1_hello_worldApp.swift in Sources */,
+				2ADBF5B8293D9ECE0097CB2F /* 01_hello_world.swift in Sources */,
 				2ADBF58F293BD3260097CB2F /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
